@@ -16,7 +16,7 @@ public class YamahaTest {
 		
 		driver.get("https://yamaha-motor.com/");
 		Reporter.log(" Yamaha launch successfully",true);
-		
+		Reporter.log(" Yamaha launch successfully",true);
 	}
 
 
